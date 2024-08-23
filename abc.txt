@@ -1,9 +1,11 @@
 public class cal 
 {
 
-public static void main (String[]args);
-   { 
-	add (20,50);
+public static void main (String[]args) {
+   	add (20,50);
+    }
+static void add(int a , int b){
+     System.out.println(a+b);
 
     }
 }
